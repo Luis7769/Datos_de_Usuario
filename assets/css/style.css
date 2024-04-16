@@ -1,0 +1,13 @@
+li {
+    margin-bottom: 2rem;  
+    list-style: none; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#user-list li img {
+    border: 2px solid #e04646; /* Borde sólido de 4 píxeles de color gris */
+}
+
+#user-data {
+    margin-left: 5rem;
+}
